@@ -1,0 +1,43 @@
+table {
+  color:red;
+}
+
+li[height="150"]
+{
+  color:orange;
+}
+
+  .sfdf
+  {
+    color:green;
+  }
+
+#ideveloper
+{
+  font-weight: bold;
+}
+
+html tr
+{
+  color:purple;
+}
+
+.list > li
+{
+  color:red;
+}
+
+.font-size-md
+{
+  font-size: 30px;
+}
+
+.font-size-md.color-red
+{
+  color: red;
+}
+
+.font-size-md.color-gray
+{
+  color: gray;
+}
